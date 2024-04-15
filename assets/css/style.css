@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap");
+
+h2 {
+  font-family: "Lobster", sans-serif;
+  
+}
+
+
+h3 {
+  font-family: "Cabin" bold, sans-serif;
+  font-size: 40px !important;
+  font-weight: 700;
+}
+
+#porciones {
+  font-family: "Cabin" bold, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+p {
+  font-family: "Cabin", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.nav-item a:hover {
+  color: red !important;
+}
+/*
+#ingredientes {
+  margin-right: 120px;
+} */
+
+#fotlogo {
+  font-family: "Lobster";
+  font-size: 46px !important;
+  font-weight: 400;
+}
+
+#suscribete {
+  font-family: "Cabin" bold, sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+#mrecetas {
+  font-family: "Cabin", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+
+#textcard {
+  font-family: "Cabin" bold, sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+#logo {
+  font-family: "Lobster";
+}
+
+.titulos {
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.titulosrojo {
+  text-decoration: none;
+  font-weight: 700;
+  color: red;
+}
